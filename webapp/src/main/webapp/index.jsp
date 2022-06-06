@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> Firstname </label>         
+	<label style:{"color": red}> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
@@ -61,4 +61,4 @@ Re-type password:
 <input type="button" value="Submit"/>  
 </form>  
 </body>  
-</html>  
+</html> 
